@@ -8,5 +8,5 @@
  ## 📩 Мои социальные сети: 
 <div align="center">  
  
-[<img src='https://github.com/user-attachments/assets/21a3bf32-0037-4bab-8a0e-d7982e7dd22e' alt='github' width="50" />](https://t.me/denzo174)
+[<img src='https://github.com/user-attachments/assets/21a3bf32-0037-4bab-8a0e-d7982e7dd22e' alt='github' width="60" />](https://t.me/denzo174)
 </div>

@@ -8,6 +8,6 @@
  ## 📩 Мои социальные сети: 
 <div align="center">  
  
-[<img src='https://github.com/user-attachments/assets/21a3bf32-0037-4bab-8a0e-d7982e7dd22e' alt='github' width="80" />](https://t.me/denzo174) [<img src='https://github.com/user-attachments/assets/63d4c797-28b8-4214-ae62-b4ef5f281834' alt='github' width="60" />](https://vk.com/den4uk1992)
+[<img src='https://github.com/user-attachments/assets/21a3bf32-0037-4bab-8a0e-d7982e7dd22e' alt='telegram' width="80" />](https://t.me/denzo174) [<img src='https://github.com/user-attachments/assets/63d4c797-28b8-4214-ae62-b4ef5f281834' alt='vk' width="50" />](https://vk.com/den4uk1992)
 </div>
 

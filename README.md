@@ -8,3 +8,4 @@
  ## 📩 Мои социальные сети:  
 [<img src='https://github.com/user-attachments/assets/f7406bdd-6b96-40f3-bdbc-1662b07aaa8d' alt='github' width="50" />](https://t.me/denzo174)
 
+![телег](https://github.com/user-attachments/assets/21a3bf32-0037-4bab-8a0e-d7982e7dd22e)

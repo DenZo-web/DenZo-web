@@ -14,6 +14,6 @@
 ## 🔧 Языки программирования и используемые инструменты:  
 <div align="center">  
 
-[<img src='https://github.com/user-attachments/assets/2a7a793f-8b69-483f-9a4d-24aa42b57802' alt='python' width="60" />]
+<img src='https://github.com/user-attachments/assets/2a7a793f-8b69-483f-9a4d-24aa42b57802' alt='python' width="100" />
 
 </div>

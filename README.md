@@ -15,6 +15,7 @@
 <div align="center">  
 
 <img src='https://github.com/user-attachments/assets/2a7a793f-8b69-483f-9a4d-24aa42b57802' alt='python' width="100" />
-<img src='https://github.com/user-attachments/assets/464e17e8-fe2c-4f78-be7f-93ddcf11c085' alt='python' width="90" />
+<img src='https://github.com/user-attachments/assets/464e17e8-fe2c-4f78-be7f-93ddcf11c085' alt='sql' width="90" />
+<img src='https://github.com/user-attachments/assets/f4b3be33-d325-435c-81ea-6e4289139922' alt='tableau' width="90" />
 
 </div>

@@ -16,7 +16,7 @@
  
 <img src='https://github.com/user-attachments/assets/37822b2d-1e81-4378-bac7-3f0ae6de947a' alt='python' width="200" />
 <img src='https://github.com/user-attachments/assets/da179763-ab9e-4d7a-9faa-00abb1b00602' alt='pandas' width="80" />
-<img src='https://github.com/user-attachments/assets/7c678638-feb3-4c96-b0b0-c042fdb00469' alt='anaconda' width="80" />
+<img src='https://github.com/user-attachments/assets/7c678638-feb3-4c96-b0b0-c042fdb00469' alt='anaconda' width="70" />
 <img src='https://github.com/user-attachments/assets/464e17e8-fe2c-4f78-be7f-93ddcf11c085' alt='sql' width="65" />
 <img src='https://github.com/user-attachments/assets/f4b3be33-d325-435c-81ea-6e4289139922' alt='tableau' width="70" />
 

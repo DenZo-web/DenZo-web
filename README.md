@@ -21,3 +21,8 @@
 <img src='https://github.com/user-attachments/assets/f4b3be33-d325-435c-81ea-6e4289139922' alt='tableau' width="70" />
 
 </div>
+
+## 📚 Портфолио:   
+| Название проекта | Описание | Стек | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Сборный проект 2](https://github.com/DenZo-web/Practicum_projects/blob/main/Assembly%20project/Assembly%20project%202.ipynb) | ваываваываваывыввававаывавава| *pandas* |

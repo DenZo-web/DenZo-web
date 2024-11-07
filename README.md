@@ -1,5 +1,5 @@
 # Привет👋   
-**Меня зовут Денис!**
+## Меня зовут Денис!
 
 ## 💻 Data Analyst / Дата Аналитик 
 📝 Анализирую данные, используя Python (pandas, numpy, matplotlib), SQL, Tableau.  

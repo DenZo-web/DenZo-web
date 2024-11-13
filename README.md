@@ -19,6 +19,7 @@
 <img src='https://github.com/user-attachments/assets/7c678638-feb3-4c96-b0b0-c042fdb00469' alt='anaconda' width="70" />
 <img src='https://github.com/user-attachments/assets/464e17e8-fe2c-4f78-be7f-93ddcf11c085' alt='sql' width="65" />
 <img src='https://github.com/user-attachments/assets/f4b3be33-d325-435c-81ea-6e4289139922' alt='tableau' width="70" />
+<img src='https://github.com/user-attachments/assets/a8ea4cb8-30c8-4822-bd1d-95e8bfa59355' />
 
 </div>
 
